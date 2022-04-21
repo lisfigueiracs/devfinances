@@ -58,7 +58,7 @@ Dev Finances - O Dev Finances é uma aplicação web, que ajuda as pessoas a ter
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  (HTML, CSS, JS, NUNJUCKS, SQL, EXPRESS, POSTGRES)
+#### **Website**  (HTML, CSS, JS)
 
 -   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 -   **[CSS](https://www.w3schools.com/css/)**
